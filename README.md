@@ -1,3 +1,5 @@
+In order to start or run the app you need to have node_modules which can be done by npx and the start the npm or yarn start.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
